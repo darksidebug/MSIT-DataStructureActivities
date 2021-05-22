@@ -1,0 +1,10 @@
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\bin\Debug\LsitsActivity.exe.config
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\bin\Debug\LsitsActivity.exe
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\bin\Debug\LsitsActivity.pdb
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\bin\Debug\Guna.UI.dll
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\obj\Debug\LsitsActivity.Form1.resources
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\obj\Debug\LsitsActivity.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\obj\Debug\LsitsActivity.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\obj\Debug\LsitsActivity.exe
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\obj\Debug\LsitsActivity.pdb
+d:\documents\visual studio 2012\Projects\LsitsActivity\LsitsActivity\obj\Debug\LsitsActivity.csprojResolveAssemblyReference.cache
