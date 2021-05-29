@@ -1,0 +1,10 @@
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\bin\Debug\StackActivity.exe.config
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\bin\Debug\StackActivity.exe
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\bin\Debug\StackActivity.pdb
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\bin\Debug\Guna.UI.dll
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\obj\Debug\StackActivity.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\obj\Debug\StackActivity.Form1.resources
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\obj\Debug\StackActivity.Properties.Resources.resources
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\obj\Debug\StackActivity.csproj.GenerateResource.Cache
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\obj\Debug\StackActivity.exe
+D:\Documents\Visual Studio 2012\Projects\MSIT-DataStructureActivities\StackActivity\StackActivity\StackActivity\obj\Debug\StackActivity.pdb
